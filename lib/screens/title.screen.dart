@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:portoprimaveratarefas/recursos/constantes.dart';
+import 'package:portoprimaveratarefas/resources/constantes.dart';
 
 class TitleScreen extends StatelessWidget {
   const TitleScreen({
@@ -16,15 +16,15 @@ class TitleScreen extends StatelessWidget {
           CircleAvatar(
               backgroundColor: Color(0xfff6f6f6),
               radius: 30,
-//                child: Icon(
-//                  Icons.list,
-//                  size: 30,
-//                  color: themeColor,
-//                )
-            child: Transform.scale(
-                child: Image.asset('assets/bouganville_grande.png'),
-              scale:0.9,
-            ),
+                child: Icon(
+                  Icons.list,
+                  size: 30,
+                  color: themeColor,
+                )
+//            child: Transform.scale(
+//                child: Image.asset('assets/bouganville_grande.png'),
+//              scale:0.9,
+//            ),
           ),
           SizedBox(height: 20,),
           Text(

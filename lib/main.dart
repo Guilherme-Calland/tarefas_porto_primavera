@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:portoprimaveratarefas/recursos/constantes.dart';
-import 'package:portoprimaveratarefas/telas/home.page.dart';
+import 'package:portoprimaveratarefas/resources/constantes.dart';
+import 'package:portoprimaveratarefas/screens/home.page.dart';
 
 void main() async => {
   WidgetsFlutterBinding.ensureInitialized(),
