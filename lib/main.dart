@@ -1,29 +1,27 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
+import 'package:portoprimaveratarefas/recursos/constantes.dart';
+import 'package:portoprimaveratarefas/telas/home.page.dart';
 
-void main() {
-  runApp(PortoPrimaveraTarefas());
-}
+void main() async => {
+  WidgetsFlutterBinding.ensureInitialized(),
+  await SystemChrome.setPreferredOrientations(
+      [DeviceOrientation.portraitUp]),
+  runApp(PortoPrimaveraTasks())
+};
 
-class PortoPrimaveraTarefas extends StatelessWidget {
+
+class PortoPrimaveraTasks extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: PaginaInicial(),
+      theme: ThemeData(
+        cursorColor: themeColor,
+        primarySwatch: Colors.purple,
+      ),
+      home: HomePage(),
       debugShowCheckedModeBanner: false,
     );
   }
 }
 
-class PaginaInicial extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-      body: Center(
-        child: Text(
-          'Porto Primavera Tasks',
-          style: TextStyle(fontSize: 30),
-        ),
-      ),
-    );
-  }
-}

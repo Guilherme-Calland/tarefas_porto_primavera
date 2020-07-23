@@ -16,16 +16,16 @@
         "source": "/home/gui/.gradle/caches/transforms-2/files-2.1/6b399c2363bb098ebde1725d903cbda0/core-1.1.0/res/layout/custom_dialog.xml"
     },
     {
-        "merged": "/home/gui/flutter-projects/tarefas_porto_primavera/build/app/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "/home/gui/flutter-projects/tarefas_porto_primavera/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "/home/gui/flutter-projects/tarefas_porto_primavera/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/home/gui/.gradle/caches/transforms-2/files-2.1/6b399c2363bb098ebde1725d903cbda0/core-1.1.0/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
     },
     {
         "merged": "/home/gui/flutter-projects/tarefas_porto_primavera/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
         "source": "/home/gui/.gradle/caches/transforms-2/files-2.1/6b399c2363bb098ebde1725d903cbda0/core-1.1.0/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
     },
     {
-        "merged": "/home/gui/flutter-projects/tarefas_porto_primavera/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "/home/gui/.gradle/caches/transforms-2/files-2.1/6b399c2363bb098ebde1725d903cbda0/core-1.1.0/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+        "merged": "/home/gui/flutter-projects/tarefas_porto_primavera/build/app/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/gui/flutter-projects/tarefas_porto_primavera/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     },
     {
         "merged": "/home/gui/flutter-projects/tarefas_porto_primavera/build/app/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
@@ -34,6 +34,10 @@
     {
         "merged": "/home/gui/flutter-projects/tarefas_porto_primavera/build/app/intermediates/res/merged/debug/drawable_notification_tile_bg.xml.flat",
         "source": "/home/gui/.gradle/caches/transforms-2/files-2.1/6b399c2363bb098ebde1725d903cbda0/core-1.1.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/gui/flutter-projects/tarefas_porto_primavera/build/app/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/gui/flutter-projects/tarefas_porto_primavera/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
         "merged": "/home/gui/flutter-projects/tarefas_porto_primavera/build/app/intermediates/res/merged/debug/drawable_launch_background.xml.flat",
@@ -60,6 +64,10 @@
         "source": "/home/gui/.gradle/caches/transforms-2/files-2.1/6b399c2363bb098ebde1725d903cbda0/core-1.1.0/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
     },
     {
+        "merged": "/home/gui/flutter-projects/tarefas_porto_primavera/build/app/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/gui/flutter-projects/tarefas_porto_primavera/android/app/src/main/res/drawable-mdpi/ic_launcher_foreground.png"
+    },
+    {
         "merged": "/home/gui/flutter-projects/tarefas_porto_primavera/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
         "source": "/home/gui/.gradle/caches/transforms-2/files-2.1/6b399c2363bb098ebde1725d903cbda0/core-1.1.0/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
     },
@@ -76,6 +84,14 @@
         "source": "/home/gui/.gradle/caches/transforms-2/files-2.1/6b399c2363bb098ebde1725d903cbda0/core-1.1.0/res/layout/notification_template_part_time.xml"
     },
     {
+        "merged": "/home/gui/flutter-projects/tarefas_porto_primavera/build/app/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/gui/flutter-projects/tarefas_porto_primavera/android/app/src/main/res/drawable-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/gui/flutter-projects/tarefas_porto_primavera/build/app/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/gui/flutter-projects/tarefas_porto_primavera/android/app/src/main/res/drawable-hdpi/ic_launcher_foreground.png"
+    },
+    {
         "merged": "/home/gui/flutter-projects/tarefas_porto_primavera/build/app/intermediates/res/merged/debug/layout_notification_template_part_chronometer.xml.flat",
         "source": "/home/gui/.gradle/caches/transforms-2/files-2.1/6b399c2363bb098ebde1725d903cbda0/core-1.1.0/res/layout/notification_template_part_chronometer.xml"
     },
@@ -86,6 +102,10 @@
     {
         "merged": "/home/gui/flutter-projects/tarefas_porto_primavera/build/app/intermediates/res/merged/debug/drawable_notification_bg_low.xml.flat",
         "source": "/home/gui/.gradle/caches/transforms-2/files-2.1/6b399c2363bb098ebde1725d903cbda0/core-1.1.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/gui/flutter-projects/tarefas_porto_primavera/build/app/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/gui/flutter-projects/tarefas_porto_primavera/android/app/src/main/res/drawable-xxhdpi/ic_launcher_foreground.png"
     },
     {
         "merged": "/home/gui/flutter-projects/tarefas_porto_primavera/build/app/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
@@ -146,5 +166,9 @@
     {
         "merged": "/home/gui/flutter-projects/tarefas_porto_primavera/build/app/intermediates/res/merged/debug/layout_notification_action.xml.flat",
         "source": "/home/gui/.gradle/caches/transforms-2/files-2.1/6b399c2363bb098ebde1725d903cbda0/core-1.1.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/gui/flutter-projects/tarefas_porto_primavera/build/app/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/gui/flutter-projects/tarefas_porto_primavera/android/app/src/main/res/drawable-xxxhdpi/ic_launcher_foreground.png"
     }
 ]
