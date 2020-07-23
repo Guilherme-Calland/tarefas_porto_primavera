@@ -13,12 +13,25 @@ class HomePage extends StatelessWidget {
           Expanded(
             child: Container(
               padding: EdgeInsets.only(left: 40, right: 20),
-              decoration: tasksContainerDecoration
+              decoration: tasksContainerDecoration,
+              child: Stack(
+                children: <Widget>[
+                  ListView.builder(
+                    itemCount: 100,
+                    itemBuilder: (context,index){
+                      return ListTile(
+                        contentPadding: EdgeInsets.all(0),
+                        title: Text("title: $index"),
+                      );
+                    },
+                  ),
+
+                ],
+              ),
             ),
           ),
         ],
       ),
-
     );
   }
 }

@@ -13,17 +13,17 @@ class TitleScreen extends StatelessWidget {
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: <Widget>[
-          FloatingActionButton(
-            elevation: 0,
-            onPressed: (){},
-            child: CircleAvatar(
-                backgroundColor: Colors.white,
-                radius: 30,
-                child: Icon(
-                  Icons.list,
-                  size: 30,
-                  color: themeColor,
-                )
+          CircleAvatar(
+              backgroundColor: Color(0xfff6f6f6),
+              radius: 30,
+//                child: Icon(
+//                  Icons.list,
+//                  size: 30,
+//                  color: themeColor,
+//                )
+            child: Transform.scale(
+                child: Image.asset('assets/bouganville_grande.png'),
+              scale:0.9,
             ),
           ),
           SizedBox(height: 20,),
